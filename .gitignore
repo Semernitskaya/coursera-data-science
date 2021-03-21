@@ -4,6 +4,9 @@
 # Idea folders
 .idea/**
 
+# Jupiter save
+.ipynb_checkpoints/**
+
 # CMake
 cmake-build-*/
 

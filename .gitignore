@@ -7,6 +7,9 @@
 # Jupiter save
 .ipynb_checkpoints/**
 
+# assignments folder
+assignments/**
+
 # CMake
 cmake-build-*/
 
